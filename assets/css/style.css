@@ -1,0 +1,80 @@
+body {background-image: url("https://i.imgur.com/5y83eT9.jpg");}
+
+.container body{margin-bottom: 5rem;}
+
+.font-weight-bold {font-weight: bold;
+					}
+
+.thumbnail {
+	width:4rem;
+	height:4rem;
+	margin: 0 auto;
+
+}
+
+#profilepic {margin:auto; 
+			width:20rem; height:20rem;
+			}
+
+.img-responsive{
+ }
+
+.githublink {
+		}
+
+.linkedinlink {}
+
+.stackoverflowlink {}
+
+h3 {text-align: center;
+	color:#1d1d66;
+	font-weight: bold;}
+
+.navbar {background-color: #dcdcdc;}
+.footer {background-color: #dcdcdc;}
+
+.navbar-brand {background-color:#dcdcdc;}
+
+li {background-color: #dcdcdc;
+	color:black;}
+
+.panel {background-color: #dcdcdc;}
+
+p {color:#1d1d66;
+	margin:2rem 2rem 2rem 2rem;}
+
+p.font-weight-bold {margin:auto;}	
+
+h1 {color:#1d1d66;
+	margin-top: 0rem;
+	}
+h4 {font-weight:bold;
+	color:#1d1d66;
+	text-decoration: underline;}
+
+.col-md-8 {background-color: #dcdcdc;
+			margin: 6rem 2rem 2rem 3rem;
+			padding: 1rem 1rem 1rem 1rem;
+
+			border: 1rem solid #EEE8AA;}
+.col-md-4 {padding-top: 1rem;
+			padding-bottom:1rem;}			
+
+.socialMedia {
+			
+			margin-right:1rem;
+			margin-top:8rem;
+			top:50%;
+}
+
+.panel {border: 1rem solid #EEE8AA;}
+
+.panel-body{padding: 1rem 1rem 1rem 1rem;}
+
+.row {margin-top: 0rem}
+
+.page-header {margin-top: 1rem;}
+
+.panel-heading {background-color: white;}
+
+
